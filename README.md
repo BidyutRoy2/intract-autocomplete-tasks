@@ -89,7 +89,7 @@ async function t() {
     a && (r(a), console[t(114)](t(109)));
   }
   console[t(114)]('All tasks processed.'),
-    console[t(114)]('Subscribe: https://t.me/HappyCuanAirdrop');
+    console[t(114)]('Subscribe: https://t.me/hiddengemnews');
 }
 function n() {
   const t = [
@@ -101,7 +101,7 @@ function n() {
     'div._accordian_base_container_1vd77_1',
     '992688QRDiNH',
     'dispatchEvent',
-    'Intract Auto Complete Tasks by HappyCuanAirdrop \nSubscribe: https://t.me/HappyCuanAirdrop',
+    'Intract Auto Complete Tasks by HappyCuanAirdrop \nSubscribe: https://t.me/hiddengemnews',
     'Clicked verify button',
     'Skipping completed task',
     '1055079GnpekC',
@@ -109,7 +109,7 @@ function n() {
     'querySelector',
     'log',
     'querySelectorAll',
-    'All tasks processed! ^_^\nSubscribe: https://t.me/HappyCuanAirdrop',
+    'All tasks processed! ^_^\nSubscribe: https://t.me/hiddengemnews',
     '1897731SatwTq',
     '4769845pXyIZI',
     'click',
