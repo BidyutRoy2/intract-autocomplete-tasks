@@ -27,7 +27,7 @@ To use the script:
 4. Press `Enter` to run the script.
 
 
-# Copy & Past script Code 
+## Copy & Past script Code Console
 ```bash
 
 const s = c;
